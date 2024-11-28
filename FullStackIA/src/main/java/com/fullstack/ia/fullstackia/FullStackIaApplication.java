@@ -8,6 +8,8 @@ public class FullStackIaApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(FullStackIaApplication.class, args);
+        //commentaire
+
     }
 
 }
